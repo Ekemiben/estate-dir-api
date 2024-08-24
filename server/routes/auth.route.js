@@ -1,6 +1,7 @@
 import express from 'express';
 // import signin from '../controllers/auth.controller.js';
 import  {google, signin, signup, signout }from '../controllers/auth.controller.js';
+
 // const Signin = require('../controllers/auth.controller.js')
 // const Signup = require('../controllers/auth.controller.js')
 
